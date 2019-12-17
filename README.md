@@ -11,4 +11,4 @@
 `docker stop python-app`
 
 ## To remove the container
-This is required if you want to run the container app again?
+This is required if you want to run the container app again
